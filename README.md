@@ -1,4 +1,4 @@
-## Note app design 
+## Note app design using Django
 
 ### Languages:
-- Python, HTML
+- Python (Django), HTML
